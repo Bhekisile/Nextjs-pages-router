@@ -25,5 +25,4 @@ export default function App({ Component, pageProps }) {
       </header>
     </div>
   )
-  // return <Component {...pageProps} />;
 }
