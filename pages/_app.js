@@ -27,7 +27,7 @@ export default function App({ Component, pageProps }) {
         <header className='flex-1 px-8 py-12 grid'>
           <main className='max-w-7xl mx-auto w-full'>
             {/* CONTENT GOES HERE */}
-            <Component {...pageProps} />;
+            <Component {...pageProps} />
           </main>
         </header>
       </div>

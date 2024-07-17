@@ -7,7 +7,7 @@ function Cabin() {
   return (
     <>
     <Head>
-    <title>Cabin {router.query.cabinId} // The Wild Oasis</title>
+    <title>Cabin {router.query.cabinId} / The Wild Oasis</title>
     </Head>
     <div>
       Cabin #{router.query.cabinId}
